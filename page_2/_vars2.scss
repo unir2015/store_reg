@@ -1,0 +1,10 @@
+$colorPink: #F16D7F;
+$colorBlack: rgb(34, 34, 34);
+$backgrBlack: rgba(33, 22, 22, 0.7);
+$width: 1140px;
+
+@mixin center() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
